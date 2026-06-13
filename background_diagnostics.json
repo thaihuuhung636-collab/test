@@ -1,0 +1,63 @@
+[
+  {
+    "source": "D:\\PROJECT\\Flood_HoHuongDien\\HuongDien_Final\\SHP_DATA\\MatCat_Line.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11958109.0071399,
+      1857975.5626414088,
+      11975196.166993627,
+      1870990.6621971563
+    ],
+    "mode": "geojson",
+    "geojsonSizeMB": 0.01,
+    "qgisStyle": true,
+    "qgisRenderer": "singleSymbol"
+  },
+  {
+    "source": "D:\\PROJECT\\Flood_HoHuongDien\\Data\\Vi_Tri_diem_48N.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11894829.952382118,
+      1816697.9410503525,
+      12021243.297339056,
+      1872604.1501809221
+    ],
+    "mode": "geojson",
+    "geojsonSizeMB": 0.01,
+    "qgisStyle": true,
+    "qgisRenderer": "categorizedSymbol"
+  },
+  {
+    "source": "D:\\PROJECT\\Flood_HoHuongDien\\Data\\Duong_giao_Thong_48N.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "extent3857": [
+      11913841.248657383,
+      1806085.0573775617,
+      12039352.43823061,
+      1891052.959211323
+    ],
+    "mode": "geojson",
+    "geojsonSizeMB": 0.42,
+    "qgisStyle": true,
+    "qgisRenderer": "categorizedSymbol"
+  },
+  {
+    "source": "D:\\PROJECT\\Flood_HoHuongDien\\Data\\Tinh_48.shp",
+    "sourceCrs": "EPSG:32648",
+    "targetCrs": "EPSG:3857",
+    "geojsonTooLargeMB": 63.5,
+    "mode": "shp_zip_3857",
+    "extent3857": [
+      11370608.494102875,
+      773451.0042106276,
+      13068156.996284423,
+      2679571.7359035327
+    ],
+    "zipSizeBytes": 15251659,
+    "qgisStyle": true,
+    "qgisRenderer": "singleSymbol"
+  }
+]
